@@ -3,7 +3,7 @@
 <!--
 **Manny2trill/Manny2trill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -32,9 +32,9 @@ Here are some ideas to get you started:
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/mannypython"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <!-- <a href=""><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a> -->
-  <!-- &#8287;&#8287;&#8287;&#8287;&#8287; -->
-  <!-- <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+  <a href=""><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
 <br/>
@@ -167,7 +167,7 @@ Here are some ideas to get you started:
     <!-- <a href="#"><img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-00b56a.svg?logo=construct-3&logoColor=white"></a> -->
     <!-- <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a> -->
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <!-- <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a> -->
     <!-- <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a> -->
     <!-- <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a> -->
     <!-- <a href="#"><img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-DD1100.svg?logo=wolfram-mathematica&logoColor=white"></a> -->
